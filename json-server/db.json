@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "shaman",
+      "email": "cbo@sena.edu.co",
+      "password": "12345"
+    },
+    {
+      "id": 2,
+      "name": "merak",
+      "email": "merak@sena.edu.co",
+      "password": "12345"
+    },
+    {
+      "id": 3,
+      "name": "atajerjes",
+      "email": "cbo@gmail.com",
+      "password": "clientqw34"
+    },
+    {
+      "name": "enter",
+      "email": "shaman",
+      "id": "b855a884-0eb3-4718-bb61-3df9092b9dd1"
+    },
+    {
+      "name": "enter",
+      "email": "merak",
+      "id": "99c7f758-0aa7-4910-94c2-facc6dfd3fdd"
+    }
+  ]
+}
